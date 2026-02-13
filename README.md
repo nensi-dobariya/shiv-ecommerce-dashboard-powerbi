@@ -16,7 +16,9 @@ Interactive Power BI dashboard analyzing e-commerce sales performance, trends, a
 - Top Products
 
 ## Dashboard Preview
-(Add screenshots here)
+<p align="left">
+<img src="https://github.com/nensi-dobariya/house-price-prediction-dashboard/blob/main/Screenshot%202026-02-13%20200523.png" width="800"/>
+</p>
 
 ## Purpose
 Self-learning portfolio project showcasing Power BI and data analysis skills.
